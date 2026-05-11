@@ -34,4 +34,4 @@ This game is a 2d platformer project using mainly the pygame library. This proje
 
 4. Run the game.py file using **"py game.py"** in the file directory.
 
-<br>Hope you enjoy this work in progress!!!
+Hope you enjoy this work in progress!!!
