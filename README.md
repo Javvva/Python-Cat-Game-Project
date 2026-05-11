@@ -20,7 +20,7 @@ This game is a 2d platformer project using mainly the pygame library. This proje
 **Installation Process:**
 - **pip install pygame-ce**
 - **pip install pytmx**
-Then you run the game.py file
+<br>Then you run the game.py file
 
 
 Hope you enjoy this work in progress!!!
