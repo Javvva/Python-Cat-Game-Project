@@ -12,8 +12,9 @@ This game is a 2d platformer project using mainly the pygame library. This proje
 - [x] Introduction Map
 - [x] Death Screen
 - [ ] Underground Level
-- [ ] Coins
-- [ ] Live system
+- [ ] Coins/Points
+- [ ] Life system
 - [ ] Enemies
+- [ ] Ending
 
 Hope you enjoy this work in progress!!!
