@@ -8,12 +8,12 @@ This game is a 2d platformer project using mainly the pygame library. This proje
 - Camera/Zoom functions
 
 **Implemented:**
-[x] Title Screen
-[x] Introduction Map
-[x] Death Screen
-[] Underground Level
-[] Coins
-[] Live system
-[] Enemies
+- [x] Title Screen
+- [x] Introduction Map
+- [x] Death Screen
+- [] Underground Level
+- [] Coins
+- [] Live system
+- [] Enemies
 
 Hope you enjoy this work in progress!!!
