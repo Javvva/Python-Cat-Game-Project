@@ -8,7 +8,7 @@ This game is a 2d platformer project using mainly the pygame library. This proje
 - Music & sounds effects
 - Camera/Zoom functions
 
-**Implemented:**
+**Implmentations:**
 - [x] Title Screen
 - [x] Introduction Map
 - [x] Death Screen
