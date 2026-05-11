@@ -21,8 +21,7 @@ This game is a 2d platformer project using mainly the pygame library. This proje
 
 1. Install Python on device 
 2. Open the Terminal on device
-3. Install dependances (Libraries)
-
+3. Install dependances (Libraries):
 **For Windows**
 - pip install pygame-ce
 - pip install pytmx
