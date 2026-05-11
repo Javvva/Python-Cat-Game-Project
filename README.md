@@ -32,6 +32,6 @@ This game is a 2d platformer project using mainly the pygame library. This proje
 - sudo apt install pygame-ce
 - sudo apt install pytmx
 
-4. Run the game.py file using **"py game.py"** in the file directory.
+4. Run the game.py file using **"py game.py"** in Terminal within the directory **or** a code editor.
 
 Hope you enjoy this work in progress!!!
