@@ -18,9 +18,20 @@ This game is a 2d platformer project using mainly the pygame library. This proje
 - [ ] Ending
 
 **Installation Process:**
-- **pip install pygame-ce**
-- **pip install pytmx**
+
+1. Install Python on device 
+2. Open the Terminal on device
+3. Install dependances (Libraries)
+
+**For Windows**
+- pip install pygame-ce
+- pip install pytmx
 - Then you run the game.py file
 
+**For Linux**
+- sudo apt install pygame-ce
+- sudo apt install pytmx
 
-Hope you enjoy this work in progress!!!
+4. Run the game.py file using **"py game.py"** in the file directory.
+
+<br>Hope you enjoy this work in progress!!!
